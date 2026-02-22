@@ -1,0 +1,43 @@
+[0.052s] Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+[0.177s] gmake: Warning: File 'Makefile' has modification time 808059689 s in the future
+[0.363s] gmake[1]: Warning: File 'CMakeFiles/Makefile2' has modification time 808059689 s in the future
+[0.391s] gmake[2]: Warning: File 'CMakeFiles/stp23_ros2node.dir/flags.make' has modification time 808059689 s in the future
+[0.391s] gmake[2]: Warning: File 'CMakeFiles/stp23l_ros2node.dir/flags.make' has modification time 808059689 s in the future
+[0.441s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.441s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.465s] gmake[2]: Warning: File 'CMakeFiles/stp23l_ros2node.dir/flags.make' has modification time 808059689 s in the future
+[0.466s] gmake[2]: Warning: File 'CMakeFiles/stp23_ros2node.dir/flags.make' has modification time 808059689 s in the future
+[0.565s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.567s] gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.609s] [100%] Built target stp23l_ros2node
+[0.610s] [100%] Built target stp23_ros2node
+[0.613s] gmake[1]: warning:  Clock skew detected.  Your build may be incomplete.
+[0.652s] gmake: warning:  Clock skew detected.  Your build may be incomplete.
+[0.675s] Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+[0.737s] Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar
+[0.774s] -- Install configuration: ""
+[0.778s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/lib/ldlidar/stp23_ros2node
+[0.780s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/lib/ldlidar/stp23l_ros2node
+[0.782s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch
+[0.782s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/stp23.launch.py
+[0.783s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/viewer_stp23l.launch.py
+[0.784s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/viewer_stp23.launch.py
+[0.785s] -- Installing: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/stp23l.launch.py
+[0.785s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//rviz2
+[0.786s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//rviz2/ldlidar.rviz
+[0.787s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+[0.788s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+[0.788s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+[0.789s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+[0.789s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/path.sh
+[0.790s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/path.dsv
+[0.791s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.bash
+[0.791s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.sh
+[0.792s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.zsh
+[0.792s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.dsv
+[0.793s] -- Installing: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/package.dsv
+[0.793s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+[0.794s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+[0.795s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+[0.795s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/package.xml
+[0.807s] Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar

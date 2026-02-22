@@ -1,0 +1,10 @@
+/root/serial/build/CMakeFiles/uninstall.dir
+/root/serial/build/CMakeFiles/serial_uninstall.dir
+/root/serial/build/CMakeFiles/serial.dir
+/root/serial/build/CMakeFiles/test.dir
+/root/serial/build/CMakeFiles/edit_cache.dir
+/root/serial/build/CMakeFiles/rebuild_cache.dir
+/root/serial/build/CMakeFiles/list_install_components.dir
+/root/serial/build/CMakeFiles/install.dir
+/root/serial/build/CMakeFiles/install/local.dir
+/root/serial/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar
+Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar

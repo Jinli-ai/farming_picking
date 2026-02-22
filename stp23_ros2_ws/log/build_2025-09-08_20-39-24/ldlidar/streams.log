@@ -1,0 +1,31 @@
+[0.056s] Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+[0.582s] [100%] Built target stp23_ros2node
+[0.583s] [100%] Built target stp23l_ros2node
+[0.633s] Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /root/stp23_ros2_ws/build/ldlidar -- -j8 -l8
+[0.680s] Invoking command in '/root/stp23_ros2_ws/build/ldlidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar
+[0.716s] -- Install configuration: ""
+[0.719s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/lib/ldlidar/stp23_ros2node
+[0.720s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/lib/ldlidar/stp23l_ros2node
+[0.721s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch
+[0.722s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/stp23.launch.py
+[0.722s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/viewer_stp23l.launch.py
+[0.723s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/viewer_stp23.launch.py
+[0.723s] -- Installing: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//launch/stp23l.launch.py
+[0.724s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//rviz2
+[0.724s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar//rviz2/ldlidar.rviz
+[0.725s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/package_run_dependencies/ldlidar
+[0.725s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/parent_prefix_path/ldlidar
+[0.726s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.sh
+[0.726s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/ament_prefix_path.dsv
+[0.727s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/path.sh
+[0.727s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/environment/path.dsv
+[0.728s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.bash
+[0.728s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.sh
+[0.729s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.zsh
+[0.729s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/local_setup.dsv
+[0.730s] -- Installing: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/package.dsv
+[0.730s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ament_index/resource_index/packages/ldlidar
+[0.730s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig.cmake
+[0.731s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/cmake/ldlidarConfig-version.cmake
+[0.731s] -- Up-to-date: /root/stp23_ros2_ws/install/ldlidar/share/ldlidar/package.xml
+[0.740s] Invoked command in '/root/stp23_ros2_ws/build/ldlidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --install /root/stp23_ros2_ws/build/ldlidar
